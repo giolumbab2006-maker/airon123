@@ -1,5 +1,7 @@
-
 <?php
+$dbname   = 'my_new_website';
+$username = 'root';
+$password = '';
 $message = "";
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
